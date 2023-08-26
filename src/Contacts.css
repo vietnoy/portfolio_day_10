@@ -1,0 +1,29 @@
+.fa {
+    font-size: 30px;
+}
+
+#contacts {
+    height: 200px;
+    font-family: 'Rubik',sans-serif;
+
+}
+
+.cont {
+    font-weight: 700;
+    margin-left: 70px;
+    font-size: 20px;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    width: 200px;
+    margin: 30px;
+}
+
+.thanks {
+    font-size: 30px;
+    text-align: center;
+}

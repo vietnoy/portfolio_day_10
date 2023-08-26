@@ -1,0 +1,42 @@
+.line {
+    height: 2px;
+    background-color: black;
+    width: 100vw;
+}
+header {
+    padding: 10px;
+    border-bottom: 2px solid black;
+    position: sticky;
+    top: 0px;
+    width: 100vw;
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+    font-size: 60px;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Rubik',sans-serif;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Rubik',sans-serif;
+}
+
+.nav {
+    margin-right: 30px;
+    padding: 5px;
+    color: black;
+}
+
+.navi_bar {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navi_bar a.active {
+    background-color: black;
+    color: white;
+}
