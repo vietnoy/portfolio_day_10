@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio_day_10/static/css/main.a12bea0e.css",
+    "main.js": "/portfolio_day_10/static/js/main.8dd1f2d8.js",
+    "static/media/world_countries_data1.png": "/portfolio_day_10/static/media/world_countries_data1.521a12b1adc5dc588f55.png",
+    "static/media/world_countries_data2.png": "/portfolio_day_10/static/media/world_countries_data2.39af8ae4bf30740a8a59.png",
+    "static/media/leader board.png": "/portfolio_day_10/static/media/leader board.54b2de7667b753650862.png",
+    "index.html": "/portfolio_day_10/index.html",
+    "main.a12bea0e.css.map": "/portfolio_day_10/static/css/main.a12bea0e.css.map",
+    "main.8dd1f2d8.js.map": "/portfolio_day_10/static/js/main.8dd1f2d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12bea0e.css",
+    "static/js/main.8dd1f2d8.js"
+  ]
+}
