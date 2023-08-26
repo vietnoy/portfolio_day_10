@@ -108,7 +108,7 @@ class App extends Component {
             <main>
                 <div ref={this.aboutRef} id="about"><About /></div>
                 <div ref={this.worksRef} id="works"><Works /></div>
-                <div ref={this.contactsRef} id="contacts"><Contacts /></div>
+                <div ref={this.contactsRef} id="contacts"><Contacts facebook={'https://www.facebook.com/do.khang.940098'} instagram={'https://www.instagram.com/d.khang_0110/?igshid=MjEwN2IyYWYwYw%3D%3D'} github={'https://github.com/vietnoy'}/></div>
             </main>
             </div>
         )
